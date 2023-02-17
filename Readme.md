@@ -1,4 +1,2 @@
-# Personal Portfolio 🔥
-
-> https://arunjayan.github.io
+### https://arunjayan.github.io
 
